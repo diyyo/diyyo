@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @diyyo
-- 💞️ do you like a pizza?
+- Hi, I’m @diyyo
+- do you like a pizza?
