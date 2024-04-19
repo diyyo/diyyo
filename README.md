@@ -1,2 +1,2 @@
-- Hi, I’m @diyyo
+- diyyo White (dio)
 - do you like a pizza?
