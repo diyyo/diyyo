@@ -1,5 +1,6 @@
 # Meet diyyo White (ディオ・ホワイト / dio Howaitō)
 ![Title](https://raw.githubusercontent.com/diyyo/diyyo/refs/heads/main/title2.png)
+
 A web developer, designer, and certified tech enthusiast who probably runs on caffeine and code more than oxygen. When she’s not busy making the internet prettier or debugging that one stubborn line of CSS, you’ll find her geeking out over the latest tech trends… because who doesn’t need a smart fridge that tweets?<br><br>diyyo’s superpowers include turning coffee into responsive websites, whispering sweet nothings to stubborn browsers (looking at you, Internet Explorer), and convincing clients that “404 error” is definitely not a personal failure. Her idea of a relaxing weekend? Redesigning her portfolio for the 47th time and arguing with Siri about the meaning of life.<br><br>P.S. She may or may not have 37 tabs open right now. All in the name of “research,” of course.
 
 
